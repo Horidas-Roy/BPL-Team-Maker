@@ -1,0 +1,17 @@
+.home-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.cart{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+}
+
+.add-cart{
+    text-align: start;
+    width: 250px;
+    margin:0 auto;
+}

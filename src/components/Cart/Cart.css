@@ -1,0 +1,24 @@
+body{
+    background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('https://i.ibb.co/JB1y0X5/4690.jpg');
+    background-attachment: fixed;
+}
+.container{
+    width: 250px;
+    height: 350px;
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+
+.photo{
+    width: 80px;
+    border-radius: 50px;
+}
+
+.info{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cart-btn{
+    background-color: aqua;
+}
